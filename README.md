@@ -25,7 +25,7 @@
 
 
 
-![Graph2](Theateroutcomes_VS_Goals.png)
+![Graph2](Theater_outcomes_VS_Launch.png)
 
 
 
