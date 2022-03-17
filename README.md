@@ -37,13 +37,13 @@
 
 ## Results
 
-- The month of May has the most successful events, and June is in second place. However, May and June has the most events.
+- The month of May has the most successful events, and June is in second place. However, May and June have the most events.
 
 - December has the least amount of successful events, but it also has the least amount of total events.
 
 - The number of failed events per month don't vary much throughout the year.
 
-- Events are rarely canceled throughout the year, with only January been slightly higher, and no canceled events on October.
+- Events are rarely canceled throughout the year, with only January being slightly higher, and no canceled events on October.
 
 - December is the least preforming month of the year, it has almost the same amount of successful events and failed events.
 
