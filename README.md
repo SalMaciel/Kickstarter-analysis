@@ -18,14 +18,13 @@
 
 
 
-![Graph 1](Outcomes_VS_Goals.png)
+![Graph2](Theater_Outcomes_VS_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
 
-
-![Graph2](Theater_outcomes_VS_Launch.png)
+![Graph 1](Outcomes_VS_Goals.png)
 
 
 
